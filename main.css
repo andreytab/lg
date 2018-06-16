@@ -1,0 +1,77 @@
+body {
+  background: #f0e68c url(images/bg.jpg);
+  color: #fff;
+}
+.wind {
+  color: green;
+  font-size: 20px;
+}
+.dell {
+color: red;
+font-size:20px
+}
+.del {
+color: red;
+font-size:35px
+}
+
+.err {
+color: blue;
+font-size: 20px
+}
+.non {
+color: orange;
+font-size: 30px;
+}
+.y {
+color: darkblue;
+font-size:20px;
+}
+.yk {
+color: darkblue;
+font-size:20px;
+}
+.nan {
+color: limegreen;
+font-size: 35px;
+}
+.nana {
+color: limegreen;
+font-size: 20px;
+}
+.b {
+color: darkred;
+font-size: 20px;
+}
+.nin {
+color: teal;
+font-size: 40px;
+}
+.nini {
+color: teal;
+font-size: 40px;
+}
+.php {
+color: lime;
+font-size: 20px;
+}
+.npn {
+color: deeppink;
+font-size: 20px;
+}
+.hello {
+  color: limegreen;
+  font-size: 35px;
+}
+a { 
+  text-decoration: none;
+}
+i.npn:hover, i.nana:hover {
+  color: #fff;
+}
+
+hr {
+  color: #000;
+  size: 4px;
+  width: 500px;
+}
