@@ -2,6 +2,10 @@ body {
   background: #f0e68c url(images/bg.jpg);
   color: #fff;
 }
+
+td.right-block {
+  vertical-align: top;
+}
 .wind {
   color: green;
   font-size: 20px;
@@ -72,6 +76,5 @@ i.npn:hover, i.nana:hover {
 
 hr {
   color: #000;
-  size: 4px;
   width: 500px;
 }
