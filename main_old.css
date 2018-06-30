@@ -1,0 +1,90 @@
+body {
+  background: #f0e68c url(images/bg.jpg);
+  color: #000;
+}
+
+td.right-block {
+  vertical-align: top;
+}
+.sborki {
+	color: purple;
+	font-size: 20px;
+}
+.wind {
+  color: green;
+  font-size: 20px;
+}
+.dell {
+color: red;
+font-size:20px;
+}
+.all-firmware {
+color: red;
+font-size:35px;
+}
+.inform {
+color: darkblue;
+font-size: 30px;
+}
+.err {
+color: blue;
+font-size: 20px;
+}
+.home {
+color: orange;
+font-size: 30px;
+}
+.y {
+color: darkblue;
+font-size:20px;
+}
+.yk {
+color: darkblue;
+font-size:20px;
+}
+.nan {
+color: darkgreen;
+font-size: 35px;
+}
+.nana {
+color: limegreen;
+font-size: 20px;
+}
+.b {
+color: darkred;
+font-size: 20px;
+}
+.nin {
+color: teal;
+font-size: 40px;
+}
+.alltwrp {
+color: teal;
+font-size: 30px;
+}
+.nini {
+color: teal;
+font-size: 40px;
+}
+.php {
+color: darkgreen;
+font-size: 20px;
+}
+.npn {
+color: deeppink;
+font-size: 20px;
+}
+.hello {
+  color: limegreen;
+  font-size: 35px;
+}
+  .redakt {
+	color: purple;
+	font-size: 20px;
+}
+a { 
+  text-decoration: none;
+}
+i.npn:hover, i.nana:hover, i.dell:hover, i.b:hover, i.nan:hover, i.wind:hover, kbd.err:hover, i.forw5:hover {
+  color: #000;
+}
